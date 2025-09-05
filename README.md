@@ -1,1 +1,2 @@
 # QuanDiscordBot
+A powerful Discord bot that connects to the Riot Games API to analyze player mechanics by tracking in-game actions (key presses, ability casts, and commands). It provides quantitative insights into playstyle differences and helps players identify areas for mechanical improvement. We were able to see how top players despite playing the same character can have drastic differences in key presses relecting back on how they play the game.
